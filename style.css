@@ -64,7 +64,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 80px;
+  padding: 2px 80px;
   /* background-color: rgba(227, 230, 243, 0.8); */
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
   position: sticky;
@@ -73,7 +73,7 @@ body {
 }
 
 #header .logo {
-  height: 10vh;
+  height: 12vh;
   width: 100%;
   border-radius: 50px;
 }
@@ -359,7 +359,7 @@ footer .col {
 }
 
 footer .logo {
-  height: 50px;
+  height: 90px;
   margin-bottom: 30px;
 }
 
